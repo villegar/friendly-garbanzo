@@ -1,0 +1,19 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2019.9.24)  10 FEB 2020 16:43
+entering extended mode
+**"/Users/roberto.villegas-diaz/Library/Mobile Documents/com~apple~CloudDocs/SD
+SU/2020/DSS/friendlyGarbanzo/vignettes/friendlyGarbanzo.tex"
+! Emergency stop.
+<to be read again> 
+                   \protect 
+<*> ...villegas-diaz/Library/Mobile Documents/com~
+                                                  apple~CloudDocs/SDSU/2020/...
+ 
+Here is how much of TeX's memory you used:
+ 3 strings out of 492896
+ 69 string characters out of 3109805
+ 57022 words of memory out of 3000000
+ 4023 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 3i,0n,0p,1b,6s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
